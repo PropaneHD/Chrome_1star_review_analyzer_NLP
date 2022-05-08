@@ -17,8 +17,8 @@ Live Link: https://chrome-1star-review-analyzer.herokuapp.com/
 ## Deployment
 
 This project was deployed on Heroku (PAAS). The project can files can uploaded using the Github 
-repository link or using the Heroku CLI. 
-Documentation for the Deployment. https://devcenter.heroku.com/articles/getting-started-with-python
+repository link or using the Heroku CLI. [Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) for the Deployment.
+
 
 For running it in local machine use this code. 
 ```bash
