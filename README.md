@@ -35,11 +35,3 @@ can be install typing the following command.
   pip install -r requirements.txt
 ```
     
-## Answers
-
-Part 1.1: Regex expression /(?<=:)[0-9]+/g
-
-Part 2.2: Only these form the subspace
-
-          (a, a + 1) for all real a
-          (a, 2a) for all real a
